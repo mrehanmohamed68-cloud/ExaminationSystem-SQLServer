@@ -84,6 +84,6 @@ Full scenario-by-scenario results (expected vs. actual, with comments) are in [`
 
 ## Author
 
-Built by [Mrehan Mohamed] — 4th-year Electronics & Communications Engineering student, currently completing DEPI's Full-Stack .NET track.
+Built by Mrehan Mohamed — 4th-year Electronics & Communications Engineering student, currently completing DEPI's Full-Stack .NET track.
 
 [www.linkedin.com/in/mrehan-mohamed](#) · 
